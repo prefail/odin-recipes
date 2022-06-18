@@ -1,0 +1,24 @@
+*{
+  background-color: rgb(215, 209, 173);
+  font-family: Garamond, 'Times New Roman', Times, serif;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4em ;
+  color: rgb(182, 138, 28);
+  text-shadow: -2px 2px 0px rgb(102, 76, 8);
+}
+
+ul {
+  color: rgb(182, 138, 28);
+}
+
+li a {
+  color: rgb(47, 50, 124);
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+
